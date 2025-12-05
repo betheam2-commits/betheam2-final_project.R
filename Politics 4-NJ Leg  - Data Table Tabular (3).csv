@@ -1,0 +1,121 @@
+unique,name ,district_number,title ,party,gender,ethnicity,education,years_in_office,military_service,marital_status,elections_run,committess_no,counties_in_district,towns_in_district,sexuality 
+obv1,Michael L.Testa Jr.,1,1,2,1,2,4,6,1,2,2,4,3,27,1
+obv2,Antwan L. McClellan,1,2,2,1,2,2,5,1,2,4,6,3,27,1
+obv3,Erik K. Simonsen,1,2,2,1,2,3,5,1,2,3,4,3,27,1
+obv4,Vincetn J. Polistina,2,1,2,1,2,2,8,1,2,4,2,1,14,1
+obv5,Donald A. Gurdian,2,2,2,1,2,2,3,1,2,2,2,1,14,2
+obv6,Claire S. Swift,2,2,2,2,2,4,3,1,2,2,2,1,14,1
+obv7,John J. Burzichelli,3,1,1,1,2,1,20,1,2,9,4,3,38,1
+obv8,David Bailey Jr.,3,2,1,1,2,3,1,1,2,2,2,3,38,1
+obv9,Heather Simmons,3,2,1,2,2,3,1,1,2,2,4,3,38,1
+obv10,Paul D. Moriarty,4,1,1,1,2,2,1,1,2,2,3,3,10,1
+obv11,Dan Hutchison,4,2,1,1,2,4,1,1,2,2,4,3,10,1
+obv12,Cody D. Miller,4,2,1,1,2,3,1,1,2,2,3,3,10,1
+obv13,Nilsa I. Cruz-Persez,5,1,1,2,1,2,11,2,2,2,5,2,16,1
+obv14,William F. Moen Jr.,5,2,1,1,2,3,5,1,2,3,3,2,16,1
+obv15,William W. Spearman,5,2,1,1,2,2,7,1,2,4,3,2,16,1
+obv16,James Beach,6,1,1,1,2,2,16,1,2,4,1,2,20,1
+obv17,Louis D. Greenwald,6,2,1,1,2,4,29,1,2,15,1,2,20,1
+obv18,Melinda Kane,6,2,1,2,2,2,1,1,2,1,3,2,20,1
+obv19,Troy Singleton,7,1,1,1,2,2,7,1,2,2,3,1,17,1
+obv20,Carol A. Murphy,7,2,1,2,2,2,7,1,2,4,3,1,17,1
+obv21,Balvir Singh,7,2,1,1,2,2,1,1,2,1,2,1,17,1
+obv22,Lathan Tiver,8,1,2,1,2,1,1,1,2,1,3,2,25,1
+obv23,Andrea Katz,8,2,1,2,2,2,1,1,2,1,3,2,25,1
+obv24,Michael Torrissi Jr.,8,2,2,1,2,2,3,1,2,2,2,2,25,1
+obv25,Carmen F. Amato Jr.,9,1,2,1,2,2,2,1,2,1,3,1,19,1
+obv26,Gregory E. Myhre,9,2,2,1,2,2,1,1,2,2,2,1,19,1
+obv27,Brian E. Rumpf,9,2,2,1,2,2,22,1,2,2,4,1,19,1
+obv28,James W. Holzapfel,10,1,2,1,2,4,13,1,2,5,4,2,16,1
+obv29,Paul Kanitra,10,2,2,1,2,2,1,1,2,1,3,2,16,1
+obv30,Gregory P. McGuckin,10,2,2,1,2,4,13,1,2,7,2,2,16,1
+obv31,Vin Gopal,11,1,1,1,2,3,7,1,2,3,2,1,19,1
+obv32,Margie Donlon,11,2,1,2,2,4,2,1,2,1,2,1,19,1
+obv33,Luanne M. Peterpaul,11,2,1,2,2,4,2,1,2,1,2,1,19,2
+obv34,Owen Henry,12,1,2,1,2,2,2,1,2,1,3,4,12,1
+obv35,Robert D. Clifton,12,2,2,1,2,3,14,1,2,7,3,4,12,1
+obv36,Alex Sauicki,12,2,2,1,2,2,1,1,2,1,2,4,12,1
+obv37,Declan J. O'Scanlon Jr.,13,1,2,1,2,3,7,1,2,2,3,1,16,1
+obv38,Victoria A. Flynn,13,2,2,2,2,4,3,1,2,3,4,1,16,1
+obv39,Gerry Scharfenburger,13,2,2,1,2,5,5,1,2,4,5,1,16,1
+obv40,Linda R. Greenstein,14,1,1,2,2,4,15,1,2,4,4,2,8,1
+obv41,Wayne P. DeAngelo,14,2,1,1,2,1,17,1,2,6,2,2,8,1
+obv42,Tennille R. McCoy,14,2,1,2,2,2,1,1,2,2,3,2,8,1
+obv43,Shirley K. Turner,15,1,2,2,2,3,27,1,2,8,5,2,14,1
+obv44,Verlina Reynolds-Jackson,15,2,2,2,2,2,7,1,2,5,6,2,14,1
+obv45,Anthony S. Verrelli,15,2,2,1,2,1,7,1,2,3,5,2,14,1
+obv46,Andrew Zwicker,16,1,2,1,2,5,3,1,2,1,5,4,14,1
+obv47,Mitchelle Drulis,16,2,2,2,2,2,1,1,2,1,3,4,14,1
+obv48,Roy Freiman,16,2,2,1,2,2,7,1,2,5,3,4,14,1
+obv49,Bob Smith ,17,1,1,1,2,4,23,1,2,10,2,2,5,1
+obv50,Joe Danielsen (ASM),17,2,1,1,2,1,11,1,2,5,3,5,5,1
+obv51,Kevin P. Egan (ASM),17,2,1,1,2,2,1,1,2,1,2,5,7,1
+obv52,Patrick J. Diegnan (S),18,1,1,1,2,4,8,1,2,12,2,1,7,1
+obv53,Robert J. Karabinchak (ASM),18,2,1,1,2,4,9,1,3,5,3,1,5,1
+obv54,Sternly S. Stanley (ASM),18,2,1,1,2,1,4,2,3,4,3,1,5,1
+obv55,Joseph F. Vitale (S),19,1,1,1,2,1,27,1,2,8,2,1,5,1
+obv56,Craig J. Coughlin ,19,2,1,1,2,4,15,1,2,8,1,1,5,1
+obv57,Yvonne Lopez (ASW),19,2,1,2,1,2,7,1,2,4,1,1,5,1
+obv58,Joseph P. Cryan (S),20,1,1,1,2,2,23,1,2,10,2,1,4,1
+obv59,Reginald W. Atkins (ASM),20,2,1,1,2,2,3,1,2,3,3,1,4,1
+obv60,Annette Quijano,20,2,1,2,1,1,23,1,1,7,3,1,4,1
+obv61,Jon M. Bramnick (S),21,1,2,1,2,4,3,1,2,10,2,4,16,1
+obv62,Michele Matsikoudis (ASW),21,2,2,2,2,2,3,1,2,2,3,1,16,1
+obv63,Nancy F. Muñoz (ASW),21,2,2,2,2,3,16,1,4,8,5,2,16,1
+obv64,Nicholas Scutari (S),22,1,1,1,2,2,21,1,3,7,2,2,16,1
+obv65,Linda S. Carter (ASW),22,2,1,2,2,2,7,1,1,7,3,2,9,1
+obv66,James J. Kennedy (ASM),22,2,1,1,2,1,9,1,2,5,3,2,9,1
+obv67,Douglas J. Steinhardt (S),23,1,2,1,2,4,3,1,2,2,2,3,9,1
+obv68,John DiMaio (ASM),23,2,2,1,2,1,16,1,2,8,0,3,37,1
+obv69,Erik Peterson (ASM),23,2,2,1,2,4,16,1,2,8,2,3,37,1
+obv70,Parker Space (S),24,1,2,1,2,1,1,1,2,6,2,6,37,1
+obv71,Dawn Fantasia (ASW),24,2,2,2,2,3,1,1,1,1,3,6,32,1
+obv72,MIchael Inganamort (ASM),24,2,2,1,2,3,1,1,2,1,4,6,32,1
+obv73,Anthony M. Bucco,25,1,2,1,2,4,6,1,2,2,2,2,19,1
+obv74,Christian E. Barranco,25,2,2,1,2,1,3,1,2,3,2,2,19,1
+obv75,Aura K. Dunn,25,2,2,2,2,3,5,1,2,4,2,2,19,1
+obv76,Joseph Pennacchio,26,1,2,1,2,4,17,1,2,7,3,2,16,1
+obv77,Brian Bergen,26,2,2,1,2,3,5,1,2,4,2,2,16,1
+obv78,Jay Webber,26,2,2,1,2,4,17,1,2,8,2,2,16,1
+obv79,John F. McKeon,27,1,1,1,2,4,1,1,2,1,3,2,6,1
+obv80,Rosy Bagolie,27,2,1,2,2,4,1,1,2,1,2,2,6,1
+obv81,Alixon Collazos-Gill,27,2,1,2,1,2,1,1,2,1,3,2,6,1
+obv82,Renee C. Burgess,28,1,1,2,2,3,3,1,2,1,5,2,5,1
+obv83,Garnet R. Hall,28,2,1,2,2,2,1,1,2,1,3,2,5,1
+obv84,Cleopatra G. Tucker,28,2,1,2,2,2,17,1,2,8,2,2,5,1
+obv85,M. Teresa Ruiz,29,1,1,2,1,2,17,2,2,5,5,2,3,1
+obv86,Eliana Pintor Marin,29,2,1,2,2,3,12,1,2,7,4,2,3,1
+obv87,Shanique Speight,29,2,1,2,2,2,5,1,2,5,3,2,3,1
+obv88,Robert W. Singer,30,1,2,1,2,1,32,1,2,9,4,2,7,1
+obv89,Sean T. Kean,30,2,2,1,2,4,13,1,2,7,2,2,7,1
+obv90,Alexander (Avi) Schnall,30,2,1,1,2,3,1,1,2,1,3,2,7,1
+obv91,Angela V. McKnight,31,1,1,2,2,2,1,1,2,1,4,1,3,1
+obv92,Barbara McCann Stamato,31,2,1,2,2,1,1,1,2,1,3,1,3,1
+obv93,William Sampson,31,2,1,1,2,2,3,1,2,2,2,1,3,1
+obv94,Raj Mukherji,32,1,1,1,2,4,1,1,2,1,3,1,2,1
+obv95,John Allen,32,2,1,1,1,4,1,1,2,1,3,1,2,1
+obv96,Jessica Ramirez,32,2,1,2,1,4,1,1,2,1,3,1,2,1
+obv97,Brian P. Stack,33,1,1,1,2,1,17,1,2,5,2,1,6,1
+obv98,Julio Marenco,33,2,1,1,1,4,1,1,2,1,3,1,6,1
+obv99,Gabriel Rodriguez,33,2,1,1,1,3,1,1,2,1,3,1,6,1
+obv100,Britnee Timberlake,34,1,1,2,2,3,1,1,2,1,2,1,6,1
+obv101,Carmen Theresa Morales,34,2,1,2,1,4,1,1,2,1,3,1,6,1
+obv102,Michael Venezia,34,2,1,1,2,3,1,1,2,1,2,1,6,1
+obv103,Benjie Wimberly,35,1,1,1,2,2,1,1,2,1,3,2,6,1
+obv104,Al Abdelaziz,35,2,1,1,2,3,1,1,2,1,3,2,6,1
+obv105,Shavonda E. Sumter,35,2,1,2,2,3,13,1,2,7,3,2,6,1
+obv106,Paul A. Sarlo,36,1,1,1,2,3,22,1,2,6,4,2,11,1
+obv107,Clinton Calabrese,36,2,1,1,2,3,5,1,2,3,2,2,11,1
+obv108,Gary Schaer,36,2,1,1,2,2,19,1,2,8,3,2,11,1
+obv109,Gordon M. Johnson,37,1,1,1,2,3,3,1,2,1,4,1,10,1
+obv110,Shama Haider,37,2,1,2,2,2,3,1,2,3,3,1,10,1
+obv111,Ellen Park,37,2,1,2,2,4,3,1,2,3,4,1,10,1
+obv112,Joseph Lagana,38,1,1,1,2,4,7,1,2,2,2,1,16,1
+obv113,Lisa Swain,38,2,1,2,2,3,7,1,2,5,4,1,16,1
+obv114,Chris Tully,38,2,1,1,2,2,7,1,2,5,4,1,16,1
+obv115,Holly Schepisi,39,1,2,2,2,4,4,1,2,2,4,1,28,1
+obv116,Robert Auth,39,2,2,1,2,2,11,1,2,6,3,1,28,1
+obv117,John Azzariti,39,2,2,1,2,4,1,1,2,2,2,1,28,1
+obv118,Kristin M. Corrado,40,1,2,2,2,4,8,1,2,2,3,3,15,1
+obv119,Al Barlas,40,2,2,1,2,2,1,1,2,2,4,3,15,1
+obv120,Christopher DePhillips,40,2,2,1,2,4,7,1,2,5,2,3,15,1
